@@ -1,0 +1,66 @@
+.nav_links li a{
+    float: right;
+    text-decoration: none;
+    display: flex;
+    margin: 7px;
+    color: white;
+    text-transform: uppercase;
+    margin-top: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+   
+}
+
+.blank{
+    width: 100%;
+    height: 5rem;
+    background-color:orangered;
+}
+
+li{
+    list-style-type: none;
+    margin-right: 24rem;
+}
+
+.first_div{
+    width: 40rem;
+    height: 30rem;
+    background-color: orangered;
+    box-shadow: 0 0 10px rgba(327, 224, 224, 0.10);
+    margin-top: 3rem;
+    margin-left: 22rem;
+    border-radius: 3rem;
+}
+
+.second_div{
+    width: 40rem;
+    height: 30rem;
+    background-color: black;
+    box-shadow: 0 0 10px rgba(327, 224, 224, 0.10);
+    margin-top: 3rem;
+    margin-left: 22rem;
+    border-radius: 3rem;
+}
+
+
+.footer{
+    width: 100%;
+    height: 18rem;
+    background-color: orangered;
+    margin-top: 3rem;
+}
+
+
+
+.footer{
+    display: flex;
+	justify-content: space-evenly;
+	position: relative;
+}
+
+.footer1{
+    width: 20rem;
+	margin-top: 2rem;
+}
+
